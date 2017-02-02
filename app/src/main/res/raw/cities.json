@@ -1,0 +1,34 @@
+{"root":
+  {"name": "Tokio",
+    "children": [
+    {"name": "New York",
+      "children": [
+        {"name": "Rio de Janeiro", "children": []},
+        {"name": "Berlin", "children": []}
+      ]},
+    {"name": "London",
+      "children": [
+        {"name": "Kairo", "children": []},
+        {"name": "Milan", "children": [
+          {"name": "Helsinki", "children": []},
+          {"name": "Oslo", "children": []}
+        ]},
+        {"name": "München", "children": [
+          {"name": "Prag", "children": []},
+          {"name": "Kiev", "children": [
+            {"name": "Moskau", "children": []}
+          ]},
+          {"name": "Madrid", "children": []},
+          {"name": "Paris", "children": []}
+        ]}
+      ]},
+    {"name": "Budapest",
+      "children": [
+        {"name": "Rom",
+          "children": [
+            {"name": "Athen", "children": []}
+        ]}
+      ]}
+    ]
+  }
+}
