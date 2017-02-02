@@ -14,7 +14,7 @@
 
     <TextView
         android:id="@+id/textSearch"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="16dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Search for:" />
@@ -36,7 +36,7 @@
 
     <Switch
         android:text="Depth First"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="16dp"
         android:id="@+id/switchSearch"
         android:layout_below="@id/textSearch"
         android:layout_width="wrap_content"
